@@ -7,13 +7,13 @@
 
 # navegación rápida por Comandos LINUX
 
-[sudo su](#sudo-su)
-[a](#man)
-[a](#ls)
-[a](#mkdir)
-[a](#mkdirhier)
-[a](#rmdir)
-[a](#tree)
+- [sudo su](#sudo-su)
+- [a](#man)
+- [a](#ls)
+- [a](#mkdir)
+- [a](#mkdirhier)
+- [a](#rmdir)
+- [a](#tree)
 [a](#cat)
 [a](#cm)
 [a](#cp)
