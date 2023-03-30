@@ -7,4 +7,21 @@
 
 | Comando | Función  | Uso  | Imágen |
 | ------- | --- | --- | --- |
-| sudo su | function | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
