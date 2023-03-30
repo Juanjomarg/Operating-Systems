@@ -7,7 +7,7 @@
 
 # navegación rápida por Comandos LINUX
 
-[sudo su](### sudo-su)
+[sudo su](###sudo-su)
 [a](###man)
 [a](###ls)
 [a](###mkdir)
