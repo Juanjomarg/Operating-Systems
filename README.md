@@ -24,6 +24,6 @@
 | stat | Brinda estado de archivo o sistema. | usage | ![1](./Screenshots/1.png) |
 | uptime | Muestra el tiempo activo del computador durante la sesión actual. | usage | ![1](./Screenshots/1.png) |
 | is | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
-| pstree | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
-| arp | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| pstree | Muestra procesos activos como árbol. | usage | ![1](./Screenshots/1.png) |
+| arp | Manipula el caché del protocolo IPv4 | usage | ![1](./Screenshots/1.png) |
 | dig | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
