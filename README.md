@@ -1,5 +1,5 @@
-#Sistemas Operativos
-##Priebas con comandos Linux
+# Sistemas Operativos
+## Priebas con comandos Linux
 
 - Juan José Martínez Guerrero
 - SOUTA G1
