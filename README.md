@@ -37,7 +37,7 @@
 -[whoami](#whoami)
 -[adduser](#adduser)
 -[chsh](#chsh)
--[group add](#group-add)
+-[groupadd](#groupadd)
 -[gorup mod](#group-mod)
 -[passwd](#passwd)
 -[usermod](#usermod)
@@ -173,7 +173,7 @@
 - **Función:** Permite cambiar la terminal utilizada.
 - **Uso:** chsh TERMINAL 
 - **Imágen:** ![1](./Screenshots/30.png) 
-### group add 
+### groupadd 
 - **Función:** Permite gestionar los grupos en la maquina. 
 - **Uso:** group add GRUPO 
 - **Imágen:** ![1](./Screenshots/31.png) 
