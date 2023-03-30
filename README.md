@@ -1,4 +1,6 @@
-# Sistemas Operativos
+#Sistemas Operativos
+##Priebas con comandos Linux
+
 - Juan José Martínez Guerrero
 - SOUTA G1
 - 30-3-2023
@@ -27,3 +29,26 @@
 | pstree | Muestra procesos activos como árbol. | pstree | ![1](./Screenshots/1.png) |
 | arp | Manipula el caché del protocolo IPv4 | arp NADA/IP | ![1](./Screenshots/1.png) |
 | dig | permite pedir solucionar un DNS a un servidor de DNS. | dig IP | ![1](./Screenshots/1.png) |
+| chattr | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| chmod | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| lsattr | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| tre-agrep | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| finger | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| groups | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| w | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| whoami | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| add user | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| chsh | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| group add | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| group mod | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| passwd | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| usermod | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| rtcwake | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| date | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| df | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| du | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| uname | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| vmstat | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| kill | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| taskset | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| netstat | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
