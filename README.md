@@ -29,26 +29,26 @@
 | pstree | Muestra procesos activos como árbol. | pstree | ![1](./Screenshots/1.png) |
 | arp | Manipula el caché del protocolo IPv4 | arp NADA/IP | ![1](./Screenshots/1.png) |
 | dig | permite pedir solucionar un DNS a un servidor de DNS. | dig IP | ![1](./Screenshots/1.png) |
-| chattr | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| chmod | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| lsattr | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| tre-agrep | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| finger | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| groups | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| w | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| whoami | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| add user | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| chsh | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| group add | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| group mod | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| passwd | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| usermod | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| rtcwake | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| date | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| df | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| du | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| uname | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| vmstat | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| kill | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| taskset | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
-| netstat | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
+| chattr | Permite cambiar los atributos de un archivo | chattr +ATRIBUTO -ATRIBUTO ARCHIVO | ![1](./Screenshots/1.png) |
+| chmod | Permite cambiar los permisos de acceson a un archivo | chmod COMBINACIONDEUSUARIOS ARCHIVO | ![1](./Screenshots/1.png) |
+| lsattr | Lista los atributos de un archivo | lsattr ARCHIVO | ![1](./Screenshots/1.png) |
+| tre-agrep | Permite buscar texto en un archivo | tre-agrep -CANTIDADDEERRORESACEPTADOS ARCHIVO | ![1](./Screenshots/1.png) |
+| finger | Muestra la informacion del usuario actual y sus detalles | finger | ![1](./Screenshots/1.png) |
+| groups | Muestra los grupos a los que pertenece un usuario | groups USUARIO | ![1](./Screenshots/1.png) |
+| w | Muestra los usuarios de la maquina y sus procesos | w | ![1](./Screenshots/1.png) |
+| whoami | Muestra el nombre de usuario actual | whoami | ![1](./Screenshots/1.png) |
+| adduser | Permite crear un usuario | adduser --GRUPOS USUARIO | ![1](./Screenshots/1.png) |
+| chsh | Permite cambiar la terminal utilizada | chsh TERMINAL | ![1](./Screenshots/1.png) |
+| group add | Permite gestionar los grupos en la maquina | group add GRUPO | ![1](./Screenshots/1.png) |
+| group mod | Permite cambiar los permisos de los grupos | group mod PERMISOS | ![1](./Screenshots/1.png) |
+| passwd | Permite cambiar la contrasena de un usuario | passwd USUARIO | ![1](./Screenshots/1.png) |
+| usermod | Permite modificar la configuracion de las cuentas | usermod USUARIO | ![1](./Screenshots/1.png) |
+| rtcwake | Envia el dispositivo a hibernacion hasta que se llega a una hora establecida | rtcwake FECHAHORA | ![1](./Screenshots/1.png) |
+| date | Muestra la fecha y hora actual del dispositivo | date | ![1](./Screenshots/1.png) |
+| df | Retorna el usu de disco para los discos | df DISCO | ![1](./Screenshots/1.png) |
+| du | Retorna el uso de disco de los archivos en el directorio actual | du DIRECTORIO | ![1](./Screenshots/1.png) |
+| uname | muestra informacion del sistema | uname | ![1](./Screenshots/1.png) |
+| vmstat | Muestra informacion sobre la memoria virtual | vmstat | ![1](./Screenshots/1.png) |
+| kill | Mata un proceso | kill PROCESO | ![1](./Screenshots/1.png) |
+| taskset | Establece nucleos especificos a un proceso | taskset CODIGOHEXADELOSNUCLEOS| ![1](./Screenshots/1.png) |
+| netstat | Muestra informacion sobre la tarjeta de red y su uso | netstat | ![1](./Screenshots/1.png) |
