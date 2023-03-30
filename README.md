@@ -7,7 +7,7 @@
 
 # navegación rápida por Comandos LINUX
 
-[sudo su](###sudo-su)
+[sudo su](### sudo-su)
 [a](###man)
 [a](###ls)
 [a](###mkdir)
@@ -52,7 +52,7 @@
 [a](###taskset)
 [a](###netstat)
 
-###sudo-su 
+### sudo-su 
 - **Función:** Cambia a modo Superusuario
 - **Uso:**  sudo su 
 - **Imágen:** ![1](./Screenshots/1.png)
