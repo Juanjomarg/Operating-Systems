@@ -2,4 +2,4 @@
 
 | Comando | Función  | Uso  | Imágen |
 | ------- | --- | --- | --- |
-| sudo su | function | usage | ![1](./Imgs/1.png) |
+| sudo su | function | usage | ![1](./imgs/1.png) |
