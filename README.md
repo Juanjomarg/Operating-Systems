@@ -1,7 +1,7 @@
 # Sistemas Operativos
-- **Juan José Martínez Guerrero**
-- **SOUTA G1**
-- **30-3-2023**
+- Juan José Martínez Guerrero
+- SOUTA G1
+- 30-3-2023
 
 # Comandos LINUX
 
