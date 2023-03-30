@@ -7,49 +7,49 @@
 
 # navegación rápida por Comandos LINUX
 
---[sudo-su](#sudo-su)
---[man](#man)
---[ls](#ls)
---[mkdir](#mkdir)
---[mkdirhier](#mkdirhier)
---[rmdir](#rmdir)
---[tree](#tree)
---[cat](#cat)
---[cmp](#cmp)
---[cp](#cp)
---[diff](#diff)
---[md5sum](#md5Sum)
---[rm](#rm)
---[split](#split)
---[stat](#stat)
---[uptime](#uptime)
---[lshw](#lshw)
---[pstree](#pstree)
---[arp](#arp)
---[dig](#dig)
---[chattr](#chattr)
---[chmod](#chmod)
---[lsattr](#lsattr)
---[tre-agrep](#tre-agrep)
---[finger](#finger)
---[groups](#groups)
---[w](#w)
---[whoami](#whoami)
---[adduser](#adduser)
---[chsh](#chsh)
---[group add](#group-add)
---[gorup mod](#group-mod)
---[passwd](#passwd)
---[usermod](#usermod)
---[rtcwake](#rtcwake)
---[date](#date)
---[df](#df)
---[du](#du)
---[uname](#uname)
---[vmstat](#vmstat)
---[kill](#kill)
---[taskset](#taskset)
---[netstat](#netstat)
+-[sudo-su](#sudo-su)
+-[man](#man)
+-[ls](#ls)
+-[mkdir](#mkdir)
+-[mkdirhier](#mkdirhier)
+-[rmdir](#rmdir)
+-[tree](#tree)
+-[cat](#cat)
+-[cmp](#cmp)
+-[cp](#cp)
+-[diff](#diff)
+-[md5sum](#md5Sum)
+-[rm](#rm)
+-[split](#split)
+-[stat](#stat)
+-[uptime](#uptime)
+-[lshw](#lshw)
+-[pstree](#pstree)
+-[arp](#arp)
+-[dig](#dig)
+-[chattr](#chattr)
+-[chmod](#chmod)
+-[lsattr](#lsattr)
+-[tre-agrep](#tre-agrep)
+-[finger](#finger)
+-[groups](#groups)
+-[w](#w)
+-[whoami](#whoami)
+-[adduser](#adduser)
+-[chsh](#chsh)
+-[group add](#group-add)
+-[gorup mod](#group-mod)
+-[passwd](#passwd)
+-[usermod](#usermod)
+-[rtcwake](#rtcwake)
+-[date](#date)
+-[df](#df)
+-[du](#du)
+-[uname](#uname)
+-[vmstat](#vmstat)
+-[kill](#kill)
+-[taskset](#taskset)
+-[netstat](#netstat)
 
 # Detalle de comandos
 
@@ -57,171 +57,171 @@
 - **Función:** Cambia a modo Superusuario
 - **Uso:** sudo su 
 - **Imágen:** ![1](./Screenshots/1.png)
-### man  
+### man 
 - **Función:**Abre el manual de uso de un programa o comando determinado.
 - **Uso:** man PROGRAMA/COMANDO
 - **Imágen:** ![1](./Screenshots/2.png) 
-### ls  
+### ls 
 - **Función:** Lista información sobre el o los archivos del directorio actual. 
-- **Uso:** ls DIRECTORIO  
+- **Uso:** ls DIRECTORIO 
 - **Imágen:** ![1](./Screenshots/4.png)
-### mkdir  
+### mkdir 
 - **Función:** Crea un directorio con el nombre dado en el directorio actual.
 - **Uso:** mkdir DIRECTORIO 
 - **Imágen:** ![1](./Screenshots/4.png) 
-### mkdirhier  
+### mkdirhier 
 - **Función:** Crea la jerarquía de directorios especificada.
 - **Uso:** mkdirhier DIRECTORIORAIZ/DIRECTORIOANIDADO 
 - **Imágen:** ![1](./Screenshots/5.png) 
-### rmdir  
+### rmdir 
 - **Función:** Elimina el directorio vacío
 - **Uso:** rmdir DIRECTORIO(vacio)
 - **Imágen:** ![1](./Screenshots/1.png) 
-### tree  
+### tree 
 - **Función:** Muestra la jerarquía del directorio actual.
 - **Uso:** tree
 - **Imágen:** ![1](./Screenshots/1.png) 
-### cat  
+### cat 
 - **Función:** Muestra en pantalla los contenidos linea a linea de un archivo.
-- **Uso:**  cat ARCHIVO
+- **Uso:** cat ARCHIVO
 - **Imágen:** ![1](./Screenshots/1.png) 
-### cmp  
+### cmp 
 - **Función:** Compara byte a byte dos archivos.
-- **Uso:**  cmp ARCHIVOA ARCHIVO B 
+- **Uso:** cmp ARCHIVOA ARCHIVO B 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### cp  
+### cp 
 - **Función:** Copia un archivo o un directorio de un punto A a un punto B.
-- **Uso:**  cp ARCHIVO/DIRECTORIO DIRECTORIOALQUECOPIAR 
+- **Uso:** cp ARCHIVO/DIRECTORIO DIRECTORIOALQUECOPIAR 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### diff  
+### diff 
 - **Función:** Compara archivos línea a línea.
-- **Uso:**  diff ARCHIVOA ARCHIVOB 
+- **Uso:** diff ARCHIVOA ARCHIVOB 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### md5sum  
+### md5sum 
 - **Función:** Permite revisar checksums para prevenir alteraciones indeseadas a archivos.
-- **Uso:**  md5sum ARCHIVO 
+- **Uso:** md5sum ARCHIVO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### rm  
+### rm 
 - **Función:** Elimina el archivo o el directorio especificado.
-- **Uso:**  rm ARCHIVO/DIRECTORIO 
+- **Uso:** rm ARCHIVO/DIRECTORIO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### split  
+### split 
 - **Función:** Divide un archivo en segmentos más pequeños del tamaño determinado.
-- **Uso:**  split ARCHIVO 
+- **Uso:** split ARCHIVO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### stat  
+### stat 
 - **Función:** Brinda estado de archivo o sistema.
-- **Uso:**  stat ARCHIVO/NADA 
+- **Uso:** stat ARCHIVO/NADA 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### uptime  
+### uptime 
 - **Función:** Muestra el tiempo activo del computador durante la sesión actual.
-- **Uso:**  uptime 
+- **Uso:** uptime 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### lshw  
+### lshw 
 - **Función:** Lista todo el hardware del dispositivo.
-- **Uso:**  lshw 
+- **Uso:** lshw 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### pstree  
+### pstree 
 - **Función:** Muestra procesos activos como árbol. 
-- **Uso:**  pstree 
+- **Uso:** pstree 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### arp  
+### arp 
 - **Función:** Manipula el caché del protocolo IPv4.
-- **Uso:**  arp NADA/IP 
+- **Uso:** arp NADA/IP 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### dig  
+### dig 
 - **Función:** Permite pedir solucionar un DNS a un servidor de DNS.
-- **Uso:**  dig IP 
+- **Uso:** dig IP 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### chattr  
+### chattr 
 - **Función:** Permite cambiar los atributos de un archivo.
-- **Uso:**  chattr +ATRIBUTO -ATRIBUTO ARCHIVO 
+- **Uso:** chattr +ATRIBUTO -ATRIBUTO ARCHIVO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### chmod  
+### chmod 
 - **Función:** Permite cambiar los permisos de acceson a un archivo.
-- **Uso:**  chmod COMBINACIONDEUSUARIOS ARCHIVO 
+- **Uso:** chmod COMBINACIONDEUSUARIOS ARCHIVO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### lsattr  
+### lsattr 
 - **Función:** Lista los atributos de un archivo.
-- **Uso:**  lsattr ARCHIVO 
+- **Uso:** lsattr ARCHIVO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### tre-agrep  
+### tre-agrep 
 - **Función:** Permite buscar texto en un archivo.
-- **Uso:**  tre-agrep -CANTIDADDEERRORESACEPTADOS ARCHIVO 
+- **Uso:** tre-agrep -CANTIDADDEERRORESACEPTADOS ARCHIVO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### finger  
+### finger 
 - **Función:** Muestra la informacion del usuario actual y sus detalles.
-- **Uso:**  finger 
+- **Uso:** finger 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### groups  
+### groups 
 - **Función:** Muestra los grupos a los que pertenece un usuario. 
-- **Uso:**  groups USUARIO 
+- **Uso:** groups USUARIO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### w  
+### w 
 - **Función:** Muestra los usuarios de la maquina y sus procesos.
-- **Uso:**  w 
+- **Uso:** w 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### whoami  
+### whoami 
 - **Función:** Muestra el nombre de usuario actual.
-- **Uso:**  whoami 
+- **Uso:** whoami 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### adduser  
+### adduser 
 - **Función:** Permite crear un usuario.
-- **Uso:**  adduser --GRUPOS USUARIO 
+- **Uso:** adduser --GRUPOS USUARIO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### chsh  
+### chsh 
 - **Función:** Permite cambiar la terminal utilizada.
-- **Uso:**  chsh TERMINAL 
+- **Uso:** chsh TERMINAL 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### group add  
+### group add 
 - **Función:** Permite gestionar los grupos en la maquina. 
-- **Uso:**  group add GRUPO 
+- **Uso:** group add GRUPO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### group mod  
+### group mod 
 - **Función:** Permite cambiar los permisos de los grupos.
-- **Uso:**  group mod PERMISOS
-- **Imágen:**  ![1](./Screenshots/1.png) 
-### passwd  
+- **Uso:** group mod PERMISOS
+- **Imágen:** ![1](./Screenshots/1.png) 
+### passwd 
 - **Función:** Permite cambiar la contrasena de un usuario.
-- **Uso:**  passwd USUARIO
-- **Imágen:**  ![1](./Screenshots/1.png) 
-### usermod  
+- **Uso:** passwd USUARIO
+- **Imágen:** ![1](./Screenshots/1.png) 
+### usermod 
 - **Función:** Permite modificar la configuracion de las cuentas.
-- **Uso:**  usermod USUARIO
-- **Imágen:**  ![1](./Screenshots/1.png) 
-### rtcwake  
+- **Uso:** usermod USUARIO
+- **Imágen:** ![1](./Screenshots/1.png) 
+### rtcwake 
 - **Función:** Envia el dispositivo a hibernacion hasta que se llega a una hora establecida.
-- **Uso:**  rtcwake FECHAHORA
-- **Imágen:**  ![1](./Screenshots/1.png) 
-### date  
+- **Uso:** rtcwake FECHAHORA
+- **Imágen:** ![1](./Screenshots/1.png) 
+### date 
 - **Función:** Muestra la fecha y hora actual del dispositivo.
-- **Uso:**  date
-- **Imágen:**  ![1](./Screenshots/1.png) 
-### df  
+- **Uso:** date
+- **Imágen:** ![1](./Screenshots/1.png) 
+### df 
 - **Función:** Retorna el usu de disco para los discos.
-- **Uso:**  df DISCO
-- **Imágen:**  ![1](./Screenshots/1.png) 
-### du  
+- **Uso:** df DISCO
+- **Imágen:** ![1](./Screenshots/1.png) 
+### du 
 - **Función:** Retorna el uso de disco de los archivos en el directorio actual.
-- **Uso:**  du DIRECTORIO 
+- **Uso:** du DIRECTORIO 
 - **Imágen:** ![1](./Screenshots/1.png) 
-### uname  
+### uname 
 - **Función:** Muestra informacion del sistema.
-- **Uso:**  uname
-- **Imágen:**  ![1](./Screenshots/1.png) 
-### vmstat  
-- **Función:** Muestra informacion sobre la memoria virtual.
-- **Uso:**  vmstat
-- **Imágen:**  ![1](./Screenshots/1.png) 
-### kill  
-- **Función:** Mata un proceso.
-- **Uso:**  kill PROCESO
-- **Imágen:**  ![1](./Screenshots/1.png) 
-### taskset  
-- **Función:** Establece nucleos especificos a un proceso.
-- **Uso:**  taskset CODIGOHEXADELOSNUCLEOS
+- **Uso:** uname
 - **Imágen:** ![1](./Screenshots/1.png) 
-### netstat  
+### vmstat 
+- **Función:** Muestra informacion sobre la memoria virtual.
+- **Uso:** vmstat
+- **Imágen:** ![1](./Screenshots/1.png) 
+### kill 
+- **Función:** Mata un proceso.
+- **Uso:** kill PROCESO
+- **Imágen:** ![1](./Screenshots/1.png) 
+### taskset 
+- **Función:** Establece nucleos especificos a un proceso.
+- **Uso:** taskset CODIGOHEXADELOSNUCLEOS
+- **Imágen:** ![1](./Screenshots/1.png) 
+### netstat 
 - **Función:** Muestra informacion sobre la tarjeta de red y su uso.
-- **Uso:**  netstat
+- **Uso:** netstat
 - **Imágen:** ![1](./Screenshots/1.png) 
