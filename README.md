@@ -23,7 +23,7 @@
 | split | Divide un archivo en segmentos más pequeños del tamaño determinado. | split ARCHIVO | ![1](./Screenshots/1.png) |
 | stat | Brinda estado de archivo o sistema. | stat ARCHIVO/NADA | ![1](./Screenshots/1.png) |
 | uptime | Muestra el tiempo activo del computador durante la sesión actual. | uptime | ![1](./Screenshots/1.png) |
-| is | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| lshw | Lista todo el hardware del dispositivo | lshw | ![1](./Screenshots/1.png) |
 | pstree | Muestra procesos activos como árbol. | pstree | ![1](./Screenshots/1.png) |
 | arp | Manipula el caché del protocolo IPv4 | arp NADA/IP | ![1](./Screenshots/1.png) |
-| dig | permite pedir solucionar un DNS a un servidor de DNS. | dig I | ![1](./Screenshots/1.png) |
+| dig | permite pedir solucionar un DNS a un servidor de DNS. | dig IP | ![1](./Screenshots/1.png) |
