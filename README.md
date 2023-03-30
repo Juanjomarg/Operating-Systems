@@ -58,7 +58,7 @@
 - **Uso:** sudo su 
 - **Imágen:** ![1](./Screenshots/1.png)
 ### man 
-- **Función:**Abre el manual de uso de un programa o comando determinado.
+- **Función:** Abre el manual de uso de un programa o comando determinado.
 - **Uso:** man PROGRAMA/COMANDO
 - **Imágen:** ![1](./Screenshots/2.png) 
 ### ls 
