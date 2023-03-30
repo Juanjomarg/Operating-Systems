@@ -2,4 +2,4 @@
 
 | Comando | Función  | Uso  | Imágen |
 | ------- | --- | --- | --- |
-| Seconds | 301 | 283 | e |
+| sudo su | function | usage | ![1](./Imgs/1.png) |
