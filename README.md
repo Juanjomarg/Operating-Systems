@@ -7,7 +7,7 @@
 
 | Comando | Función | Uso | Banderas | Imágen |
 | ------- | ------- | --- | -------- | ------ |
-| sudo su | Cambia a modo Superusuario | sudo su | a | ![1](./Screenshots/1.png) |
+| sudo su | Cambia a modo Superusuario | sudo su | --askpass, --bell, --background, --close-from, --chdir=directory, --preserve-env, --edit | ![1](./Screenshots/1.png) |
 | man | Abre el manual de uso de un programa o comando determinado. | man PROGRAMA/COMANDO | --command, --fast, --group, --supp-group, --login, --preserve-environment, --pty, --shell | ![1](./Screenshots/2.png) |
 | ls | Lista información sobre el o los archivos del directorio actual. | ls | a | ![1](./Screenshots/3.png) |
 | mkdir | Crea un directorio con el nombre dado en el directorio actual. | mkdir DIRECTORIO | a | ![1](./Screenshots/4.png) |
