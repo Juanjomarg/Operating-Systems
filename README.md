@@ -5,8 +5,8 @@
 
 # Comandos LINUX
 
-| Comando | Función | Uso | Banderas | Imágen |
-| ------- | ------- | --- | -------- | ------ |
+| Comando | Función | Uso | Imágen |
+| ------- | ------- | --- | ------ |
 | sudo su | Cambia a modo Superusuario | sudo su | ![1](./Screenshots/1.png) |
 | man | Abre el manual de uso de un programa o comando determinado. | man PROGRAMA/COMANDO | ![1](./Screenshots/2.png) |
 | ls | Lista información sobre el o los archivos del directorio actual. | ls | ![1](./Screenshots/3.png) |
