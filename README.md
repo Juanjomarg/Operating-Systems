@@ -38,7 +38,7 @@
 -[adduser](#adduser)
 -[chsh](#chsh)
 -[groupadd](#groupadd)
--[gorup mod](#group-mod)
+-[groupmod](#groupmod)
 -[passwd](#passwd)
 -[usermod](#usermod)
 -[rtcwake](#rtcwake)
