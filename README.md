@@ -1,9 +1,5 @@
 # Operating-Systems
 
-|Comando|Función|uso|Imágen|
-|---|---|---|---|---|
-|a|b|c|d|
-
-| Attempt | #1  | #2  |
-| ------- | --- | --- |
-| Seconds | 301 | 283 |
+| Comando | Función  | Uso  | Imágen |
+| ------- | --- | --- | --- |
+| Seconds | 301 | 283 | e |
