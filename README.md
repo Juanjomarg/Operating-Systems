@@ -26,4 +26,4 @@
 | is | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
 | pstree | Muestra procesos activos como árbol. | usage | ![1](./Screenshots/1.png) |
 | arp | Manipula el caché del protocolo IPv4 | usage | ![1](./Screenshots/1.png) |
-| dig | Cambia a modo Superusuario | usage | ![1](./Screenshots/1.png) |
+| dig | permite pedir solucionar un DNS a un servidor de DNS. | usage | ![1](./Screenshots/1.png) |
